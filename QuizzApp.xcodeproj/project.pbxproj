@@ -17,6 +17,7 @@
 		42DFA73227A9B6B000449C7B /* QuizzAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42DFA73127A9B6B000449C7B /* QuizzAppTests.swift */; };
 		42DFA73C27A9B6B000449C7B /* QuizzAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42DFA73B27A9B6B000449C7B /* QuizzAppUITests.swift */; };
 		42DFA73E27A9B6B000449C7B /* QuizzAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42DFA73D27A9B6B000449C7B /* QuizzAppUITestsLaunchTests.swift */; };
+		42DFA74B27A9C85400449C7B /* Questions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42DFA74A27A9C85400449C7B /* Questions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		42DFA73727A9B6B000449C7B /* QuizzAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = QuizzAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		42DFA73B27A9B6B000449C7B /* QuizzAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizzAppUITests.swift; sourceTree = "<group>"; };
 		42DFA73D27A9B6B000449C7B /* QuizzAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizzAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		42DFA74A27A9C85400449C7B /* Questions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Questions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				42DFA71727A9B6AE00449C7B /* AppDelegate.swift */,
 				42DFA71927A9B6AE00449C7B /* SceneDelegate.swift */,
 				42DFA71B27A9B6AE00449C7B /* ViewController.swift */,
+				42DFA74A27A9C85400449C7B /* Questions.swift */,
 				42DFA71D27A9B6AE00449C7B /* Main.storyboard */,
 				42DFA72327A9B6B000449C7B /* Assets.xcassets */,
 				42DFA72527A9B6B000449C7B /* LaunchScreen.storyboard */,
@@ -264,6 +267,7 @@
 				42DFA71C27A9B6AE00449C7B /* ViewController.swift in Sources */,
 				42DFA72227A9B6AF00449C7B /* QuizzApp.xcdatamodeld in Sources */,
 				42DFA71827A9B6AE00449C7B /* AppDelegate.swift in Sources */,
+				42DFA74B27A9C85400449C7B /* Questions.swift in Sources */,
 				42DFA71A27A9B6AE00449C7B /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
